@@ -1,1 +1,2 @@
 [![Java CI with Gradle](https://github.com/Aleksey0510/Allure/actions/workflows/gradle.yml/badge.svg)](https://github.com/Aleksey0510/Allure/actions/workflows/gradle.yml)
+![Скриншот 30-10-2025 231406.jpg](../../Downloads/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2030-10-2025%20231406.jpg)
